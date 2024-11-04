@@ -2,6 +2,7 @@
 
 ### Description
 MARS is a regression modeling technique that creates continuous models with smooth derivatives. It is suitable for data with complex relationships and non-linear terms.
+This repository is the final project for Simon Fraser University's STAT 360
 
 ### Usage
 ```R
