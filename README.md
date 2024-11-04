@@ -61,3 +61,7 @@ The final model inherits from the `lm` object, with the output classified as `ma
 - and more.
 
 The output object inherits many properties from `lm`, such as `residuals`, `coefficients`, and `degrees of freedom`.
+
+## References
+
+Included in **R documentation**: [Link to Mars Documentation](
