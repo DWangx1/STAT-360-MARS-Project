@@ -64,4 +64,4 @@ The output object inherits many properties from `lm`, such as `residuals`, `coef
 
 ## References
 
-Included in **R documentation**: [Link to Mars Documentation](
+Included in **R documentation**: [Link to Mars Documentation](https://github.com/DWangx1/STAT-360-MARS-Project/blob/main/R%20documentation.Rmd)
